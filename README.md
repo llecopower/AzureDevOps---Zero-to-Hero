@@ -159,10 +159,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Repo settings
 - Authentication and Authorization
 - Secrets and credentials access
-
-### Issues and troubleshooting Azure DevOps
-- We will discuss the most common issues you have faced throughout the series and solutions to those.
-  
+ 
 ### Azure DevOps Scenario-based Interview Questions
 - We will discuss the most asked scenario-based interview questions and answers for Azure DevOps
 
