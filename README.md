@@ -160,7 +160,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Authentication and Authorization
 - Secrets and credentials access
 
-### Week 16: Issue and troubleshooting Azure DevOps
+### Issues and troubleshooting Azure DevOps
 - We will discuss the most common issues you have faced throughout the series and solutions to those.
   
 ### Azure DevOps Scenario-based Interview Questions
