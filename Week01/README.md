@@ -7,7 +7,11 @@ To run an application, you must purchase computing, storage, and hardware. Cloud
 
 **Cloud Computing aims at**
 
-![image](https://drive.google.com/file/d/1BZYWu9i7lA0SqMSTJWpj6g2AqkvIuKtU/view?usp=sharing)
+
+<img alt="image" width=300 height=300 src="https://github.com/user-attachments/assets/9f3ed023-9cb3-4cdb-bfa6-199f1a482390" />
+
+
+
 <img src="(https://drive.google.com/file/d/1BZYWu9i7lA0SqMSTJWpj6g2AqkvIuKtU/view?usp=sharing)" alt="image" width=300 height=300 >
 
 ## IaaS VS PaaS VS SaaS
