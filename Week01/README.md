@@ -11,18 +11,14 @@ To run an application, you must purchase computing, storage, and hardware. Cloud
 <img width="904" height="481" alt="282374777-19b803a8-45be-4f30-b32f-aa5be6c601d3" src="https://github.com/user-attachments/assets/c96dba98-b2f9-426e-aa17-07256d1805f5" />
 
 ## Shared Responsibility Model in Azure
-
 <img width="1329" height="730" alt="282375062-fd327641-f690-4d98-963c-8afa823d869a" src="https://github.com/user-attachments/assets/8195d1d3-8158-4591-957a-257b76d04244" />
 
-
 ## Traditional Build and Deployment workflow
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/51690599-927b-437e-b525-61e3fe4b03f1)
+<img width="1375" height="757" alt="282377567-51690599-927b-437e-b525-61e3fe4b03f1" src="https://github.com/user-attachments/assets/2ab85662-6af1-40ca-bbe3-500522982715" />
 
 
 ## What is the Waterfall model?
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/6a6bd063-8586-4911-a9a2-76be3435a659)
+<img width="1347" height="748" alt="282375360-6a6bd063-8586-4911-a9a2-76be3435a659" src="https://github.com/user-attachments/assets/1a3e4fb8-8e18-4639-b35a-05b279469bc3" />
 
 ## What were the challenges with the waterfall model?
 
