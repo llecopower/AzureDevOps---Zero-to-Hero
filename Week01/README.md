@@ -41,10 +41,11 @@ We will use the cloud offering **Azure DevOps Services** throughout our course.
 In the basic plan, you will get the first 5 users free of cost with all the services within certain limits except the Azure test plan, for which you need a Basic+Test plan subscription/
 
 ### Below are the details of both plans:
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/7db8657f-46ca-499c-b592-7e0049749ce6)
+<img width="1437" height="1186" alt="Screenshot 2026-04-22 202253" src="https://github.com/user-attachments/assets/594b887e-82d1-4722-854d-d901b58e1327" />
+
 
 ### Below are the service limits applicable to these plans
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/2d97555d-efe1-4c46-8d77-ddc48ee90c4b)
+<img width="1308" height="1039" alt="Screenshot 2026-04-22 202303" src="https://github.com/user-attachments/assets/0cd4dcd1-ed40-432b-b7c1-a5c1a5650b2f" />
 
 **If you are a Visual Studio subscriber, you can get access to any number of organizations and don't count against your 5 free users.**
 
