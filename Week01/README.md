@@ -4,19 +4,11 @@
 ## What is Cloud Computing?
 To run an application, you must purchase computing, storage, and hardware. Cloud computing minimizes these upfront expenses, and you can rent or lease hardware from cloud providers such as AWS/Azure/GCP.
 
-
 **Cloud Computing aims at**
-
-
 <img alt="image" width=300 height=300 src="https://github.com/user-attachments/assets/9f3ed023-9cb3-4cdb-bfa6-199f1a482390" />
 
-
-
-<img src="(https://drive.google.com/file/d/1BZYWu9i7lA0SqMSTJWpj6g2AqkvIuKtU/view?usp=sharing)" alt="image" width=300 height=300 >
-
 ## IaaS VS PaaS VS SaaS
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/19b803a8-45be-4f30-b32f-aa5be6c601d3)
+<img width="904" height="481" alt="282374777-19b803a8-45be-4f30-b32f-aa5be6c601d3" src="https://github.com/user-attachments/assets/c96dba98-b2f9-426e-aa17-07256d1805f5" />
 
 ## Shared Responsibility Model in Azure
 
