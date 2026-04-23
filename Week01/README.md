@@ -12,7 +12,8 @@ To run an application, you must purchase computing, storage, and hardware. Cloud
 
 ## Shared Responsibility Model in Azure
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/fd327641-f690-4d98-963c-8afa823d869a)
+<img width="1329" height="730" alt="282375062-fd327641-f690-4d98-963c-8afa823d869a" src="https://github.com/user-attachments/assets/8195d1d3-8158-4591-957a-257b76d04244" />
+
 
 ## Traditional Build and Deployment workflow
 
