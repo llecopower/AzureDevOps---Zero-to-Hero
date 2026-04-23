@@ -21,17 +21,13 @@ To run an application, you must purchase computing, storage, and hardware. Cloud
 <img width="1347" height="748" alt="282375360-6a6bd063-8586-4911-a9a2-76be3435a659" src="https://github.com/user-attachments/assets/1a3e4fb8-8e18-4639-b35a-05b279469bc3" />
 
 ## What were the challenges with the waterfall model?
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/24157bd9-191a-409a-80fb-7b0474531500)
+<img width="1347" height="496" alt="282375546-24157bd9-191a-409a-80fb-7b0474531500" src="https://github.com/user-attachments/assets/c26075e4-d6a4-4d07-90e2-741fd1fb2849" />
 
 ## What is Agile
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/45cbf236-2254-4332-b1a7-3370e5177a77)
+<img width="1344" height="766" alt="282375767-45cbf236-2254-4332-b1a7-3370e5177a77" src="https://github.com/user-attachments/assets/2d9c21f8-5218-4883-8595-0965c1dd2df4" />
 
 ## What is DevOps, and why does it matter?
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/5e199e8e-15c1-4ba6-8d75-dcf8dd4ce706)
-
+<img width="1335" height="647" alt="282376068-5e199e8e-15c1-4ba6-8d75-dcf8dd4ce706" src="https://github.com/user-attachments/assets/8e4af919-2d6a-4f2d-8b81-d05320b42bad" />
 
 ## What is Azure DevOps 🤷‍♂️
 Azure DevOps is a suite of services that allows you to implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wikis, Build and Release pipelines, Test plans, and Artifacts.
