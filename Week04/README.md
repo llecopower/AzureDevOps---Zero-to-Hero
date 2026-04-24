@@ -5,11 +5,11 @@
 - Login to VSCode or any other IDE of your choice
 - Run the below commands to download the application code
   ```
-  mkdir day4_youtube_clone; cd day4_youtube_clone
+  mkdir week4_youtube_clone; cd week4_youtube_clone
   git init
   git clone https://github.com/llecopower/Youtube_Clone
   ```
-- Create a project in Azure DevOps for Day4 and push the code by running the below commands on VSCode:
+- Create a project in Azure DevOps for Week4 and push the code by running the below commands on VSCode:
   ```
   git remote add origin $YOURAZUREREPO
   git push -u origin all
@@ -88,9 +88,9 @@ stages:
     - task: AzureRmWebAppDeployment@4
       inputs:
         ConnectionType: 'AzureRM'
-        azureSubscription: 'Tech Tutorials With Piyush (9e9c27ce-e0c8-4171-a368-ad16977ec849)'
+        azureSubscription: 'Tech Tutorials (9e9c27ce-e0c8-4171-a368-ad16977ec849)'
         appType: 'webAppLinux'
-        WebAppName: 'TechTutorialsWithPiyush'
+        WebAppName: 'TechTutorials'
         packageForLinux: '$(System.ArtifactsDirectory)/drop'
         RuntimeStack: 'STATICSITE|1.0'
 ```
