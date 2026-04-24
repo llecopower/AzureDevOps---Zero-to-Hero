@@ -1,7 +1,7 @@
 # AzureDevOps-Zero-to-Hero with real-time projects
 Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into concepts, demos, and real-time projects to help you master Azure DevOps and bolster your DevOps skills.
 
-### Week 1: Introduction to Azure DevOps and Basic Concepts 🌟
+### Week 1: Introduction to Azure DevOps and Basic Concepts
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
 - What is a Shared Responsibility Model
@@ -14,10 +14,9 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - What is Azure DevOps and a quick walkthrough
 - Creating an Azure DevOps Organization
 - Creating an Azure DevOps Project
-- Azure DevOps Pricing
 - Azure DevOps hosting options: Azure DevOps Services VS Azure DevOps Server
 
-### Week 2: Azure Boards and Agile Project Management 📊
+### Week 2: Azure Boards and Agile Project Management
 - What are Azure DevOps Boards 
 - What are Azure board processes, agile, scrum, basic, and CMMI
 - Managing work items in Azure boards
@@ -32,7 +31,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Work item query
 - Customizing team process
 
-### Week 3: Mastering Git and Source Control in Azure DevOps 🌿
+### Week 3: Mastering Git and Source Control in Azure DevOps
 - Introduction to Source Control and Azure Repos
 - Git vs TFVC
 - Configure Visual Code
@@ -43,11 +42,11 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Tagging a release
 - Managing repository
 - Managing Pull requests
+- Managing merge conflicts
 - Sample application code
 
-### Week 4: Build Pipeline 🚀
+### Week 4: Build Pipeline
 #### Note: For the demo, we will be using the YouTube Clone website 
-
 - Provision Azure App Service to host the website.
 - Creating Build Pipelines using the classic editor
 - Creating build pipeline using YAML
@@ -56,7 +55,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - variables, triggers, Build properties, agents
 - Publishing and Download Build Artifacts
 
-### Week5: 🚀 Continuous Delivery with Azure DevOps Release Pipeline
+### Week5: Continuous Delivery with Azure DevOps Release Pipeline
 #### continuation
 - Automating Deployment with a multi-stage Release Pipelines
 - Continuous Deployment Triggers
@@ -65,7 +64,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Update the code to test the entire CICD process with the Build and Release pipeline
 
 
-### Week 6: Azure Test Plans and Testing 🧪
+### Week 6: Azure Test Plans and Testing 
 #### Note: We will be using the Youtube Clone website to implement the below steps
 - Azure Test Plan Overview
 - Features of Azure test plan
@@ -74,8 +73,8 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Authoring, Running, and Analyzing Manual Tests
 - Azure Test and Feedback extension
 
-### Week 7: Basic Project Artifacts with Azure Artifacts 📦
-#### Note: We will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
+### Week 7: Basic Project Artifacts with Azure Artifacts
+#### Note: We will use a Nike Landing page as a sample application for CICD using Azure Artifacts
 - Overview of Azure Artifacts
 - Create the Azure DevOps project and check out the application code
 - Set up the infra using Azure Web App
@@ -85,7 +84,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Promote the package to trigger the release pipeline
 - Upstream packages in Azure Artifacts
 
-### Week 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps🚀
+### Week 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps
 - Introduction to IaC and Tools
 - Various Terraform commands and workflow
 - Creating Terraform configuration files
@@ -94,7 +93,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps CI Pipeline to init, plan, and archive the plan file
 - Azure DevOps CD pipeline to apply the changes
 
-### Week9: Self Hosted agents 👨‍🔧 on Azure Virtual machine scale sets 🧑‍💻
+### Week9: Self Hosted agents on Azure Virtual machine scale sets 
 - Microsoft-hosted vs. self-hosted agents
 - Use case of self-hosted agents
 - Ways to setup self-hosted agents: VM, VMSS, container
@@ -113,10 +112,10 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Docker Architecture
 - Containerize a sample To-Do list web app written in React JS.
 - Benefits of a multi-stage docker file
-- What are Azure container instances(ACI)
+- What are Azure container instances (ACI)
 - Azure DevOps CICD Pipeline to deploy to ACI
 
-### Week 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
+### Week 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes
 - Basic Introduction of Kubernetes and its benefits
 - Kubernetes Architecture
 - What is the control plane and its components
@@ -125,7 +124,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
 - Sample application: My Health Care - Microservices-based Healthcare management app
   
-### Week 12  Security and Permissions in Azure DevOps 🔐
+### Week 12  Security and Permissions in Azure DevOps
 - Enabling advanced security in Azure DevOps
 - Dependency Scanning
 - Secret scanning and managing alerts
@@ -133,7 +132,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Code scanning for vulnerabilities
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
-### Week 13: Serverless app CICD 🐳
+### Week 13: Serverless app CICD
 - Introduction to Azure functions
 - Use case and benefits of an Azure function
 - Introduction to the sample app to be used for this demo: Serverless QR Code Generator
@@ -147,7 +146,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Publishing code as Wiki
 - How we can use Azure DevOps wiki to collaborate on a project
 
-### Week 15: Azure DevOps Security best practices 🚢
+### Week 15: Azure DevOps Security best practices
 - Azure DevOps Access Control
 - Organization Settings
 - Agent pools Management
@@ -156,7 +155,6 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Pipeline security
 - Repo settings
 - Authentication and Authorization
-- Secrets and credentials access
  
 ### Azure DevOps Scenario-based Interview Questions
 - We will discuss the most asked scenario-based interview questions and answers for Azure DevOps
