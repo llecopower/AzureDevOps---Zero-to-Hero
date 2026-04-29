@@ -6,7 +6,10 @@
 
 ## Use case of self-hosted agents
 
-<img width="937" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d6ffbd95-00db-4a07-b7d6-f5c0c1a56619">
+
+
+<img width="937" height="448" alt="293014600-d6ffbd95-00db-4a07-b7d6-f5c0c1a56619" src="https://github.com/user-attachments/assets/40973779-faad-4a68-b2b3-942068008faa" />
+
 
 ### Ways to setup self-hosted agents: 
 - Azure Virtual Machine
