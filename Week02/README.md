@@ -52,8 +52,7 @@ The basic process contains three work item types:
 - Issues: Further divide your Epics into Issues such as Homepage, about us page, secure sign-in
 - Task: Tasks are the smallest amount of work that can be assigned to someone, for example, designing a homepage header, standardizing fonts, and fixing the homepage CSS to make it mobile responsive.
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b271128e-b3e5-422c-81e4-14321916fa15)
-
+<img width="843" height="444" alt="282838352-b271128e-b3e5-422c-81e4-14321916fa15" src="https://github.com/user-attachments/assets/305d82bb-bb52-4e43-b927-9abffc336ddc" />
 
 <h1>Basic Azure Board</h1>
 
