@@ -1,26 +1,36 @@
 # Week11 Azure DevOps CICD Pipeline on Azure Kubernetes Services 🛳️ 🐳
 
 ## Kubernetes Architecture
-
-<img width="820" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/e15fe0dc-afc0-4aec-b69f-b7e296df0b07">
+<img width="820" height="493" alt="01" src="https://github.com/user-attachments/assets/87e095c1-eb3c-42c1-bb25-7157f31311fc" />
 
 ## Kubernetes components
 
 ### Kube APiServer
 
-<img width="746" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/808131a2-e8b5-4b89-af47-5f1040c64544">
+
+<img width="746" height="472" alt="02" src="https://github.com/user-attachments/assets/62d390cc-3a04-4d79-b29a-928e6db1ac98" />
+
 
 ### Kube Scheduler
 
-<img width="745" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/7e394ee3-37c9-4ade-82b0-95da0b0318ef">
+
+
+<img width="745" height="447" alt="03" src="https://github.com/user-attachments/assets/4a657362-26cd-4515-a5b8-f1326e20e288" />
+
 
 ### Kube Controller Manager
 
-<img width="853" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/4dffd765-559c-4839-8152-7f15ab753adf">
+
+
+<img width="853" height="480" alt="04" src="https://github.com/user-attachments/assets/c15eef40-d8fe-4c59-8815-a6d438d2632a" />
+
 
 ### ETCD
 
-<img width="817" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/f50887ea-28d0-40b3-968d-1e923f2177a4">
+
+
+<img width="817" height="483" alt="05" src="https://github.com/user-attachments/assets/eef86a27-987d-420d-894a-dc6a06e8f057" />
+
 
 
 ## Pre-requisites
@@ -69,7 +79,8 @@ az sql db create -g $RGP -s $SQLSERVER -n $DB --service-objective S0
 
 ## Change the Firewall settings of the SQL server
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d421dd8b-1a85-447a-ad2d-f0ddb859953d)
+
+<img width="2840" height="1416" alt="06" src="https://github.com/user-attachments/assets/e2548df5-f5d7-4d58-8f5d-758f3c6e9aeb" />
 
 
 ## Setup Azure DevOps Project
@@ -110,7 +121,7 @@ https://github.com/llecopower/HealthClinic.git
 # Set environment variables
 REGION="westus"
 RGP="day11-demo-rg"
-CLUSTER_NAME="day11-demo-cluster"
+CLUSTER_NAME="week11-demo-cluster"
 ACR_NAME="day11demoacr"
 SQLSERVER="day11-demo-sqlserver"
 DB="mhcdb"
