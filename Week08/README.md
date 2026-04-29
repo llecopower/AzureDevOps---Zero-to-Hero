@@ -19,7 +19,8 @@
 
 ### Import the below repository into Azure DevOps for Terraform configuration
 
-https://github.com/piyushsachdeva/Terraform-AzureDevOps-Sample.git
+https://github.com/llecopower/Terraform-Azure.git
+
 
 ## Let's implement this using Azure DevOps
 
