@@ -1,7 +1,7 @@
 # Week 6 Azure Test Plans :microscope:
 
+<img width="1817" height="878" alt="285936099-9f52ac37-a943-4a50-8426-0cccf07f5758" src="https://github.com/user-attachments/assets/dbe9a88a-9ad5-483b-8747-da7322a7349c" />
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9f52ac37-a943-4a50-8426-0cccf07f5758)
 
 ## Manual and Exploratory Testing :pencil2:
 
