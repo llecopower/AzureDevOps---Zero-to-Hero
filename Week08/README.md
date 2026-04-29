@@ -2,19 +2,21 @@
 
 ## How Terraform works
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/943c9ea1-a6db-4ff7-9a2b-d91abe43acef)
+<img width="1731" height="890" alt="01" src="https://github.com/user-attachments/assets/4a4904a5-eb14-4387-bd81-837fb3bcc6e2" />
+
 
 ## Initialize the Terraform repo
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/ed1c07c6-8ce0-40cb-bae2-49e981b163d0)
+<img width="1409" height="869" alt="02" src="https://github.com/user-attachments/assets/5b09f2eb-258f-43ce-8dbe-eaa87f9cb43d" />
 
 ## Run Terraform plan
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9f578a21-e132-43e8-817b-0d2724ee6b00)
+<img width="1839" height="908" alt="03" src="https://github.com/user-attachments/assets/4208ba37-7f8c-4685-b1f9-a32faa1b5bf4" />
+
 
 ## Run Terraform apply
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/6b27d254-eca3-4953-aa12-766cef1f9943)
+<img width="1801" height="960" alt="04" src="https://github.com/user-attachments/assets/c0a88e5b-5576-4e26-b9ff-170a866c85a4" />
 
 
 ### Import the below repository into Azure DevOps for Terraform configuration
@@ -24,7 +26,7 @@ https://github.com/llecopower/Terraform-Azure.git
 
 ## Let's implement this using Azure DevOps
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/a8395bd1-ee47-4b41-ba73-2f4bca714fd2)
+<img width="1774" height="906" alt="05" src="https://github.com/user-attachments/assets/33041124-4f08-4479-a2ca-b2ce8c14dcd0" />
 
 
 ### You can use the below Azure cli commands to set the terraform remote backend, or you can do it via the portal
@@ -48,10 +50,10 @@ az storage container create --name $CONTAINER_NAME --account-name $STORAGE_ACCOU
 
 ## Azure DevOps CICD Pipeline
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/6f3ae577-750a-4eab-81ec-7c3b8630f6e9)
+<img width="1582" height="995" alt="06" src="https://github.com/user-attachments/assets/1b10daf9-570a-44cf-b86f-1ae56c5b5e7e" />
 
 
-## YAML Code for Build pipeline
+## YAML Code for Build pipeline - Configuration Management (CM)
 
 ``` YAML
 trigger: 
