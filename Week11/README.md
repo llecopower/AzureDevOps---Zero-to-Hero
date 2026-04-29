@@ -83,7 +83,7 @@ Make sure the below Azure DevOps extensions are installed and enabled in your or
 Once the infra is ready, go to dev.azure.com --> Project --> repos 
 and import the below git repo, which has the source code and pipeline code
 
-https://github.com/piyushsachdeva/MyHealthClinic-AKS
+https://github.com/llecopower/HealthClinic.git
 
 ### Build and Release Pipeline
 
