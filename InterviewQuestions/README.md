@@ -62,10 +62,6 @@ RUN npm run build
 FROM nginx:latest AS deployer
 COPY --from=installer /app/build /usr/share/nginx/html
 ```
-## Explain some of the Azure DevOps Best Practices:
-
-Check out this [repo](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/blob/main/Week15/README.md) and Week15 Video
-
 ## How can you ensure the security and privacy of secrets used in your pipeline to prevent them from being exposed?
 - Azure Key Vault and access via a variable group
 - Runtime variable, tokenize your files and replace token step inside the pipeline
@@ -85,5 +81,5 @@ A: Action
 R: Result
 
 ## How would you implement CICD for a dockerized or microservice-based application with multiple services?
-- Check out Video 10 for ACI and Video 11 for Kubernetes
+- Check out Week 10 for ACI and Week 11 for Kubernetes
 
