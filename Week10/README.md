@@ -2,15 +2,20 @@
 
 ## Understanding Virtual machine V/s Containers.
 
-<img width="813" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/221d3819-5d02-48ef-986a-10d2d0127ff6">
+
+<img width="813" height="499" alt="01" src="https://github.com/user-attachments/assets/1c4dd8e7-a444-4043-aee8-9ec038919d27" />
+
 
 ## Challenges with the non-containerized applications
 
-<img width="726" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/35c32f78-71de-413b-ad95-94473d600558">
+
+<img width="726" height="331" alt="02" src="https://github.com/user-attachments/assets/5a124118-344c-4ccb-9d50-53988ca8b0b2" />
 
 ## Docker Architecture
 
-<img width="676" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/57a7e5d1-d66f-4b80-9075-b7d0efa6cedc">
+
+<img width="676" height="394" alt="03" src="https://github.com/user-attachments/assets/8c5b18df-aa60-43bd-861a-244193de9062" />
+
 
 ## Containerize a sample To-Do list web app written in React JS.
 
@@ -63,7 +68,8 @@ It includes only the built artifacts necessary for running the application, maki
 
 ## What are Azure container instances(ACI)
 
-<img width="904" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/697a2fd2-552b-459c-b861-e97cd3d6812f">
+
+<img width="904" height="498" alt="04" src="https://github.com/user-attachments/assets/c070085e-086d-4be6-881b-36e8e72ec34e" />
 
 
 ## Azure DevOps CICD Pipeline to deploy to ACI
