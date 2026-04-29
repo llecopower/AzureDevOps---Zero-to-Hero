@@ -13,7 +13,9 @@ https://github.com/llecopower/Nike_Page.git
 
 ## Architectural diagram used in the video
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/f7facb49-af0d-4f6a-8e14-ae8444423c91)
+
+<img width="1917" height="1020" alt="287016422-f7facb49-af0d-4f6a-8e14-ae8444423c91" src="https://github.com/user-attachments/assets/542fcd93-3a6a-476e-a52b-d7211adf936b" />
+
 
 ## Build Pipeline YAML code:
 
