@@ -3,8 +3,7 @@
 ## Setup your Azure repos with the same application code
 
 You can import the below repo to clone the Nike landing page sample website code to your Azure Repos:
-
-https://github.com/piyushsachdeva/nike_landing_page.git
+https://github.com/llecopower/Nike_Page.git
 
 **Note:** You must set the app settings as below to disable all file caching:
 
