@@ -37,7 +37,8 @@ Azure Repos supports two types of Version Control:
 - Git
 - TFVC ( Team Foundation Version Control)
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/25b0ec44-7542-4fb6-af47-9f3d59ebc9a3)
+<img width="1193" height="569" alt="283180855-25b0ec44-7542-4fb6-af47-9f3d59ebc9a3" src="https://github.com/user-attachments/assets/60af7e30-f0cb-486c-b4ca-08dc214e960c" />
+
 
 
 ### Git
@@ -52,5 +53,7 @@ Another type of version control system is TFVC, a centralized version control. I
 
 ## Working with branches
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b39d56b3-19e7-49f1-9c42-99c183f01bbf)
+
+<img width="899" height="607" alt="283181341-b39d56b3-19e7-49f1-9c42-99c183f01bbf" src="https://github.com/user-attachments/assets/ce50aaac-8b7c-4146-82d1-c532ba573c87" />
+
 
