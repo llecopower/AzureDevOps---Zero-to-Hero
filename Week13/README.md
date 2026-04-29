@@ -3,7 +3,10 @@
 ## To publish the Azure function from your CLI to Azure, follow the instructions given in the below repo:
 
 ```bash
-https://github.com/rishabkumar7/azure-qr-code
+
+https://github.com/llecopower/azure-qr-code.git
+
+
 ```
 
 ## Azure DevOps CI/CD Process diagram:
