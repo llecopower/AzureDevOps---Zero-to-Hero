@@ -1,7 +1,7 @@
-# AzureDevOps-Zero-to-Hero with real-time projects
-Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into concepts, demos, and real-time projects to help you master Azure DevOps and bolster your DevOps skills.
+# System_Development-Zero-to-Hero 
+Welcome to our System Development course, where we'll dive deep into concepts, demos, and real-time projects to help you master your DevOps skills.
 
-### Week 1: Introduction to Azure DevOps and Basic Concepts
+### Week 1: Introduction to DevOps and Basic Concepts
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
 - What is a Shared Responsibility Model
