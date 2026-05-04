@@ -44,6 +44,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Managing Pull requests
 - Managing merge conflicts
 - Sample application code
+- Worktree
 
 ### Week 4: Build Pipeline
 #### Note: For the demo, we will be using the YouTube Clone website 
